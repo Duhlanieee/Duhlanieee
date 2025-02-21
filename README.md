@@ -12,7 +12,7 @@
 </p>
 <h3 align="center">Welcome to my GitHub profile :3</h3>
 
-<p align="center">East Asian studies major w minor in anthropology | 日本語を勉強している </p>
+<p align="center">East Asian studies major w minor in anthropology | 日本語を勉強している | University of South Florida </p>
 
 <p align="center">
   <strong><a href="https://yuna0x0.com">Website</a></strong> |
