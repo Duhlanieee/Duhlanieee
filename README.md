@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://yuna0x0.com">Duhlanie</a>!</h1>
+<h1 align="center">Hi! I'm <a href="https://yuna0x0.com">Delanie</a>!</h1>
 <p align="center">
   <a href="https://yuna0x0.com">
     <img src="https://yuna0x0.com/88x31.webp" alt="yuna0x0">
@@ -12,7 +12,7 @@
 </p>
 <h3 align="center">Welcome to my GitHub profile :3</h3>
 
-<p align="center">Cybersec major turned cultural anthropology major | 日本語を勉強している | Bachelors in East Asian studies </p>
+<p align="center">East Asian studies major w minor in anthropology | 日本語を勉強している </p>
 
 <p align="center">
   <strong><a href="https://yuna0x0.com">Website</a></strong> |
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yuna0x0"><img src="https://github-readme-stats.vercel.app/api?username=yuna0x0&hide_border=true&show_icons=true" alt="yuna0x0's github stats"></a>
+  <a href="https://github.com/yuna0x0"><img src="https://github-readme-stats.vercel.app/api?username=duhlanieee&hide_border=true&show_icons=true" alt="Duhlanieee's's github stats"></a>
 </p>
 
 <!--
