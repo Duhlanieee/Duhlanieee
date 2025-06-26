@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi! I'm <a href="https://duhlanieee.github.io">Delanie</a>!</h1>
-<p align="center">she/her | Ex-cybersec turned humanities student | Bachelor's in East Asian Languages and Cultures w minor in Anthropology | 日本語を勉強している </p>
+<p align="center">Ex-cybersec turned humanities student | Bachelor's in East Asian Languages and Cultures w minor in Anthropology | 日本語を勉強している </p>
 
 <p align="center">
   <strong><a href="https://duhlanieee.github.io">Website</a></strong> |
