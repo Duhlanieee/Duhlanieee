@@ -2,7 +2,7 @@
     <img src="haruhi.gif" alt="Banner">
 </p>
 
-<h1 align="center">Hi! I'm <a href="https://duhlanieee.github.io">Delanie</a>!</h1>
+<h1 align="center">Hi! I'm Delanie!</h1>
 <p align="center">Ex-cybersec turned humanities student | Bachelor's in East Asian Studies w minor in Anthropology | 日本語を勉強している </p>
 
 <p align="center">
