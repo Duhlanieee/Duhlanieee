@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="haruhi.gif" alt="Banner">
+    <img src="roseBackgroundLaugh.gif" alt="Banner">
 </p>
 
 <h1 align="center">Hi! I'm Delanie!</h1>
