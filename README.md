@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi! I'm Delanie!</h1>
-<p align="center">Online Model & Influencer | Bachelor's in East Asian Studies | 日本語を勉強している </p>
+<p align="center">Online Model & Graphic Designer | Bachelor's in East Asian Studies | 日本語を勉強している </p>
 
 <p align="center">
   <strong><a href="https://duhlanieee.github.io">Website</a></strong> |
